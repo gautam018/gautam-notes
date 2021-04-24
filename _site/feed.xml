@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gautam Gottipati</title>
+    <description>A dark blog theme for Jekyll.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 24 Apr 2021 18:44:09 +0530</pubDate>
+    <lastBuildDate>Sat, 24 Apr 2021 18:44:09 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Accuracy</title>
+        <description>&lt;p&gt;In this blog we will learn our first performance measure.&lt;/p&gt;
+
+&lt;h1 id=&quot;accuracy&quot;&gt;Accuracy&lt;/h1&gt;
+
+</description>
+        <pubDate>Sun, 25 Apr 2021 22:40:19 +0530</pubDate>
+        <link>/machine-learning/2021/04/25/accuracy/</link>
+        <guid isPermaLink="true">/machine-learning/2021/04/25/accuracy/</guid>
+        
+        <category>Machine learning</category>
+        
+        <category>Theory</category>
+        
+        
+        <category>Machine-Learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Performance Measure of Models</title>
+        <description>&lt;p&gt;In this blog we will learn about some of the useful performance measures that we use inorder to validate our machine learning models.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;../../25/accuracy/&quot;&gt;Accuracy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Confusion Matrix&lt;/li&gt;
+  &lt;li&gt;Precision and recall&lt;/li&gt;
+  &lt;li&gt;F1 Score&lt;/li&gt;
+  &lt;li&gt;ROC and AUC&lt;/li&gt;
+  &lt;li&gt;Log Loss&lt;/li&gt;
+  &lt;li&gt;R- Squared /Coefficient of determination&lt;/li&gt;
+  &lt;li&gt;Median Absolute Deviation&lt;/li&gt;
+  &lt;li&gt;Distribution of Errors&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 24 Apr 2021 22:40:19 +0530</pubDate>
+        <link>/machine-learning/2021/04/24/performance-measure-of-model/</link>
+        <guid isPermaLink="true">/machine-learning/2021/04/24/performance-measure-of-model/</guid>
+        
+        <category>Machine learning</category>
+        
+        <category>Theory</category>
+        
+        
+        <category>Machine-Learning</category>
+        
+      </item>
+    
+      <item>
+        <title>My First Blog</title>
+        <description>&lt;h2 id=&quot;hi&quot;&gt;Hi&lt;/h2&gt;
+
+&lt;p&gt;Hi, nice meeting you. I am Gautam from India. I am a software developer and a passionate artificial intelligent learner and tutor. I love to spread my knowledge to others through these blogs and via various forms in the coming future. I am doing this as my passion to spread knowledge because I strongly believe in “The way you learn things is by explaining it to others” and secondly to document my learning. Initial blogs might not be soo good ,I understand ,and thank you in advance for going through my blogs but I promise over the time I will improve my writing and explaining style.&lt;/p&gt;
+
+&lt;p&gt;Thank you,&lt;/p&gt;
+
+&lt;p&gt;Regards &lt;br /&gt;
+Gautam Gottipati&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Apr 2021 20:07:00 +0530</pubDate>
+        <link>/demo/2021/04/24/first-blog/</link>
+        <guid isPermaLink="true">/demo/2021/04/24/first-blog/</guid>
+        
+        <category>First</category>
+        
+        <category>Demo</category>
+        
+        
+        <category>Demo</category>
+        
+      </item>
+    
+  </channel>
+</rss>

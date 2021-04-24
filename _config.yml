@@ -1,0 +1,41 @@
+# Site settings
+title: "Gautam Gottipati"
+email: gautamrace@gmail.com
+description: "A dark blog theme for Jekyll."
+baseurl: ""
+url: ""
+title_description: "This is my space where I write about various technical concepts .<br>
+                    <br>
+                    Machine Learning | Computer Vision | Sometimes other interesting topics."
+title_image: "https://gautamgottipati.github.io/images/me.jpeg"
+google_analytics: ""
+disqus_account: 
+github_repository: https://github.com/GautamGottipati
+addthis_id: 
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: GottipatiG
+github_username:  GautamGottipati
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/gautam-gottipati-b54022164/
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://www.linkedin.com/in/gautam-gottipati-b54022164/\">Gautam Gottipati</a>"
+footer_right: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
+future: True
