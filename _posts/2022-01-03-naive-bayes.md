@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Naive-Bayes
-date:       2021-04-25 17:10:19
+date:       2022-01-03
 author:     Gautam Gottipati
 summary:    Naive-Bayes- Classification Algorithm
 categories: Machine-Learning
